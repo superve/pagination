@@ -1,0 +1,14 @@
+{
+    "name": "gogery/pagination",
+    "description": "this is a pagination class",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "gogery",
+            "email": "gogery@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
