@@ -1,4 +1,5 @@
 <?php
+	namespace Page;
 	/**
 	 * 分页类
 	 */
