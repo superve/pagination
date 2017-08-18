@@ -1,6 +1,6 @@
 {
     "name": "gogery/pagination",
-    "description": "this is a pagination class",
+    "description": "一个PHP分页类库",
     "type": "library",
     "license": "MIT",
     "authors": [
