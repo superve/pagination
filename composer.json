@@ -1,7 +1,7 @@
 {
     "name": "gogery/pagination",
     "description": "this is a pagination class",
-    "type": "project",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
