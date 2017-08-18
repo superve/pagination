@@ -20,5 +20,10 @@
     	"psr-4":{
     		"Page\\": "src/Page"
     	}
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.0"
+        }
     }
 }
